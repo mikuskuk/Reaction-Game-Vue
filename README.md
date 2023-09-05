@@ -22,5 +22,7 @@ This is a simple Vue.js-based Reaction Game. The goal of the game is to click on
 The project is structured as follows:
 
 `App.vue`: The main Vue component that controls the game flow.
+
 `components/Block.vue`: A component that displays the green block and measures the reaction time.
+
 `components/Results.vue`: A component that displays the player's reaction time and rank.
